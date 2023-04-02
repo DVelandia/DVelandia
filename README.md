@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
-    <img align="center" alt="linkedin logo" width="50" height="50" src="assests/LinkedinLogo.png"/>
+    <img align="center" alt="linkedin logo" width="50" src="assests/LinkedinLogo.png"/>
   </a> 
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
-    <img align="center" alt="github logo" width="50" height="50" src="assests/GitHubLogo.png"/>
+    <img align="center" alt="github logo" width="50" src="assests/GitHubLogo.png"/>
   </a>
   
   <a href="mailto:dfvf03@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" width="50" height="50" src="assests/GmailLogo.png"/>
+    <img align="center" alt="gmail logo" width="50" src="assests/GmailLogo.png"/>
   </a>
 
   <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="twitter logo" width="50" height="50" src="assests/TwitterLogo.png"/>
+    <img align="center" alt="twitter logo" width="50" src="assests/TwitterLogo.png"/>
   </a>
 </p>
 
