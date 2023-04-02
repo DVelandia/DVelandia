@@ -2,23 +2,25 @@
 
 <img  src="assests/borderseperator.gif"> <br>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
-    <img align="left" alt="linkedin logo" width="50" height="50" src="assests/LinkedinLogo.svg"/>
+    <img align="center" alt="linkedin logo" width="50" height="50" src="assests/LinkedinLogo.svg"/>
   </a> 
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
-    <img align="left" alt="github logo" width="50" height="50" src="assests/GitHubLogo.svg"/>
+    <img align="center" alt="github logo" width="50" height="50" src="assests/GitHubLogo.svg"/>
   </a>
   
   <a href="mailto:dfvf03@gmail.com" target="_blank">
-    <img align="left" alt="gmail logo" width="50" height="50" src="assests/GmailLogo.svg"/>
+    <img align="center" alt="gmail logo" width="50" height="50" src="assests/GmailLogo.svg"/>
   </a>
 
   <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="left" alt="twitter logo" width="50" height="50" src="assests/TwitterLogo.svg"/>
-</a>
-</div> <br><br><br><br>
+    <img align="center" alt="twitter logo" width="50" height="50" src="assests/TwitterLogo.svg"/>
+  </a>
+</p> <br>
+
+<img  src="assests/borderseperator.gif"> <br>
 
 <a href="https://app.daily.dev/DVelandia"><img align='right' src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/></a>
 
@@ -33,7 +35,7 @@ More about me: <br>
 
 * :octocat: Hobbies: Documentaries, Meditation and Music. <br><br>
 
-<h2></h2><br>
+<h2></h2><br><br><br><br><br>
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
