@@ -38,9 +38,7 @@
 
 * 🧘🏽‍♂️ Hobbies: Documentaries, Meditation and Music. <br><br><br>
 
-* 👀 If you are looking for someone **passionate**, committed and dedicated in the **Frontend area**, don't hesitate to contact me! I encourage you to write me privately or send me an email to **dfvf03@gmail.com**.
-
-<h2></h2><br><br><br><br><br><br>
+<h2></h2><br><br>
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
