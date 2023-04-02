@@ -4,21 +4,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
-    <img align="center" alt="linkedin logo" width="50" height="50" src="assests/LinkedinLogo.svg"/>
+    <img align="center" alt="linkedin logo" width="50" height="50" src="assests/LinkedinLogo.png"/>
   </a> 
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
-    <img align="center" alt="github logo" width="50" height="50" src="assests/GitHubLogo.svg"/>
+    <img align="center" alt="github logo" width="50" height="50" src="assests/GitHubLogo.png"/>
   </a>
   
   <a href="mailto:dfvf03@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" width="50" height="50" src="assests/GmailLogo.svg"/>
+    <img align="center" alt="gmail logo" width="50" height="50" src="assests/GmailLogo.png"/>
   </a>
 
   <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="twitter logo" width="50" height="50" src="assests/TwitterLogo.svg"/>
+    <img align="center" alt="twitter logo" width="50" height="50" src="assests/TwitterLogo.png"/>
   </a>
-</p> <br>
+</p>
 
 <img  src="assests/borderseperator.gif"> <br>
 
@@ -35,7 +35,7 @@ More about me: <br>
 
 * :octocat: Hobbies: Documentaries, Meditation and Music. <br><br>
 
-<h2></h2><br><br><br><br><br>
+<h2></h2><br><br><br><br><br><br>
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
