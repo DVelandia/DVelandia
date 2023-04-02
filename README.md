@@ -2,7 +2,7 @@
 <img src="(https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+DVelandia+Welcome+to+my+profile!)" align="middle" alt="Hey, I'm DVelandia Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif"> <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/LinkedinLogo.svg"/>
   </a> &nbsp;&nbsp;
@@ -15,10 +15,10 @@
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/GmailLogo.svg" />
   </a> &nbsp;&nbsp;
 
-  <!-- <a href="https://dev.to/hyuncafe" target="_blank">
+  <a href="https://dev.to/hyuncafe" target="_blank">
     <img align="center" alt="twitter logo" height="50" width="50" src="assests/TwitterLogo.svg"/>
-</a> &nbsp;&nbsp; -->
-</p> 
+</a> &nbsp;&nbsp;
+</p>  -->
 
 <a href="https://app.daily.dev/DVelandia"><img src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/></a>
 
