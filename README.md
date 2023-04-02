@@ -38,7 +38,7 @@
 
 * 🧘🏽‍♂️ Hobbies: Documentaries, Meditation and Music. <br><br><br>
 
-<h2></h2>
+<img  src="assests/borderseperator.gif"> <br>
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
