@@ -3,28 +3,28 @@
 <img  src="assests/borderseperator.gif"> <br>
 
 <p align="center">
+   <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
+    <img align="center" alt="github logo" width="50" src="assests/GitHubLogo.png"/>
+  </a>
+ 
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
     <img align="center" alt="linkedin logo" width="50" src="assests/LinkedinLogo.png"/>
   </a> 
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
-    <img align="center" alt="github logo" width="50" src="assests/GitHubLogo.png"/>
-  </a>
   
   <a href="mailto:dfvf03@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" width="50" src="assests/GmailLogo.png"/>
   </a>
 
-  <a href="https://dev.to/hyuncafe" target="_blank">
+  <!-- <a href="" target="_blank">
     <img align="center" alt="twitter logo" width="50" src="assests/TwitterLogo.png"/>
-  </a>
+  </a> -->
 </p>
 
 <img  src="assests/borderseperator.gif"> <br>
 
 <a href="https://app.daily.dev/DVelandia"><img align='right' src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/></a>
 
-<h2 align="center"> Programming lover, self-taught with a passion for innovation.</h2><br>
+<h2 align="center"> Programming lover, self-taught with a passion for innovation.</h2>
 
 * 🧠 I am currently doing the **Frontend Developer route!** <br><br>
 
@@ -46,3 +46,5 @@
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=jquery,nodejs,ts,jest,vite,react,vue" alt="skills planning to learn logos">
 </div>
+
+<img  src="assests/borderseperator.gif">
