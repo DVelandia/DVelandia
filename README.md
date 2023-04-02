@@ -24,7 +24,7 @@
 
 <a href="https://app.daily.dev/DVelandia"><img align='right' src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/></a>
 
-<h2 align="center"> Programming lover, self-taught with a passion for innovation.</h2>
+<h2 align="center"> Programming lover, self-taught with a passion for innovation.</h2><br>
 
 * 🧠 I am currently doing the **Frontend Developer route!** <br><br>
 
