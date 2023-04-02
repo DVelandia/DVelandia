@@ -26,14 +26,19 @@
 
 <h2 align="center"> Programming lover, self-taught with a passion for innovation.</h2>
 
-* 🌳 I am currently doing the **Frontend Developer route!** <br> 
-More about me: <br>
+* 🧠 I am currently doing the **Frontend Developer route!** <br><br>
 
-* 🌊 Goals 2023: Increase my experience as a **Frontend** developer. Improve my **english** level. <br><br>
+* 🚀 My name is **Daniel** and much of my training as a programmer has been self-taught. When I was **16 years old** I started developing websites as a hobby and since then I have not stopped learning and improving my skills in this fascinating field. <br><br>
 
-* ☕ Interest: Programming and Cycling. <br><br>
+* 💬 More about me: <br>
 
-* :octocat: Hobbies: Documentaries, Meditation and Music. <br><br>
+* 🏁 Goals 2023: Increase my experience as a **Frontend** developer. Improve my **english** level. <br><br>
+
+* ☕ Interest: Programming, Coffee and Cycling. <br><br>
+
+* 🧘🏽‍♂️ Hobbies: Documentaries, Meditation and Music. <br><br><br>
+
+* 👀 If you are looking for someone **passionate**, committed and dedicated in the **Frontend area**, don't hesitate to contact me! I encourage you to write me privately or send me an email to **dfvf03@gmail.com**.
 
 <h2></h2><br><br><br><br><br><br>
 
