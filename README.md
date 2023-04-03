@@ -42,7 +42,7 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=cpp,vscode,html,css,bootstrap,git,github,js,wordpress,bash,pug,sass" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=cpp,vscode,html,css,git,github,js,wordpress,bash,pug,sass" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=jquery,nodejs,ts,jest,vite,react,vue" alt="skills planning to learn logos">
 </div>
