@@ -41,10 +41,14 @@
 <img  src="assests/borderseperator.gif"> <br>
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=cpp,java,bash,vscode,html,css,js,git,github,wordpress,bootstrap,pug,sass" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=jquery,nodejs,ts,jest,vite,react,vue" alt="skills planning to learn logos">
+  <h2> <strong> Active Technologies </strong></h2>
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,bootstrap,js,jquery,git,github,docker,figma" alt="active technologies logos">
+<br>
+  <h2> <strong> Technologies in Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,cloudflare,vercel" alt="technologies in learning logos">
+<br>
+  <h2> <strong> Previously Acquired Skills </strong></h2>
+  <img src="https://skillicons.dev/icons?i=linux,bash,blender,cpp,arduino,idea,java,maven,mysql,sqlite,pug,wordpress" alt="previously acquired skills logos">
 </div>
 
 <img  src="assests/borderseperator.gif">
