@@ -20,19 +20,19 @@
   <img align="right" src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/>
 </a>
 
-## Coding with Colombian Coffee Aroma ☕️
+### Coding with Colombian Coffee Aroma ☕️
 
 Hey there, I'm **Daniel Velandia**, a fifth-semester **Systems Engineering** student at UNISANGIL. Fueled by my passion for **technology** and **web development**, I've enriched my education with courses on **Platzi**. In my free time, I delve into **freelance projects**, collaborating closely with clients to deliver exceptional **user experiences**.
 
-### 🚀 Goals for 2024
+#### 🚀 Goals for 2024
 
 - Enhance my skills as a **Frontend Developer** and elevate my **English proficiency**.
 
-### 💻 Interests
+#### 💻 Interests
 
 - Design, Accessibility, Optimization, SEO, CMS, UX.
 
-### 🧘🏽‍♂️ Hobbies
+#### 🧘🏽‍♂️ Hobbies
 
 - Cycling, Enjoying coffee, Meditation.
 
