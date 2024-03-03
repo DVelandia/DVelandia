@@ -36,6 +36,8 @@ Hey there, I'm **Daniel Velandia**, a fifth-semester **Systems Engineering** stu
 
 - Cycling, Enjoying coffee, Meditation.
 
+<br>
+
 ---
 
 <div align="center">
