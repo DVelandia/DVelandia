@@ -1,54 +1,56 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+DVelandia+Welcome+to+my+profile!" align="middle" alt="Hey, I'm DVelandia Welcome to my Profile! animated typed out"/>
+![Hey, I'm DVelandia Welcome to my Profile!](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+DVelandia+Welcome+to+my+profile!)
 
-<img  src="assests/borderseperator.gif"> <br>
+---
 
 <p align="center">
-   <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
-    <img align="center" alt="github logo" width="50" src="assests/GitHubLogo.png"/>
+  <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
+    <img alt="github logo" width="50" height="50" src="assets/github-logo.png"/>
   </a>
- 
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
-    <img align="center" alt="linkedin logo" width="50" src="assests/LinkedinLogo.png"/>
-  </a> 
-  
-  <a href="mailto:dfvf03@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" width="50" src="assests/GmailLogo.png"/>
+    <img alt="linkedin logo" width="50" height="50" src="assets/linkedin-logo.png"/>
   </a>
-
-  <!-- <a href="" target="_blank">
-    <img align="center" alt="twitter logo" width="50" src="assests/TwitterLogo.png"/>
-  </a> -->
+  <a href="mailto:dfvf03@gmail.com" target="_blank">
+    <img alt="gmail logo" width="50" height="50" src="assets/gmail-logo.png"/>
+  </a>
 </p>
 
-<img  src="assests/borderseperator.gif"> <br>
+---
 
-<a href="https://app.daily.dev/DVelandia"><img align='right' src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/></a>
+<a href="https://app.daily.dev/DVelandia">
+  <img align="right" src="https://api.daily.dev/devcards/ed35583d0e564721befe1199e723628c.png?r=lj9" width="350" alt="Daniel Velandia's Dev Card"/>
+</a>
 
-<h2 align="center"> Programming lover, self-taught with a passion for innovation.</h2>
+## Coding with Colombian Coffee Aroma ☕️
 
-* 🧠 I am currently doing the **Frontend Developer route!** <br><br>
+Hey there, I'm **Daniel Velandia**, a fifth-semester **Systems Engineering** student at UNISANGIL. Fueled by my passion for **technology** and **web development**, I've enriched my education with courses on **Platzi**. In my free time, I delve into **freelance projects**, collaborating closely with clients to deliver exceptional **user experiences**.
 
-* 🚀 My name is **Daniel** and much of my training as a programmer has been self-taught. When I was **16 years old** I started developing websites as a hobby and since then I have not stopped learning and improving my skills in this fascinating field. <br><br>
+### 🚀 Goals for 2024
 
-* 💬 More about me: <br>
+- Enhance my skills as a **Frontend Developer** and elevate my **English proficiency**.
 
-* 🏁 Goals 2023: Increase my experience as a **Frontend** developer. Improve my **english** level. <br><br>
+### 💻 Interests
 
-* ☕ Interest: Programming, Coffee and Cycling. <br><br>
+- Design, Accessibility, Optimization, SEO, CMS, UX.
 
-* 🧘🏽‍♂️ Hobbies: Documentaries, Meditation and Music. <br><br><br>
+### 🧘🏽‍♂️ Hobbies
 
-<img  src="assests/borderseperator.gif"> <br>
+- Cycling, Enjoying coffee, Meditation.
+
+---
 
 <div align="center">
-  <h2> <strong> Active Technologies </strong></h2>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,bootstrap,js,jquery,git,github,docker,figma" alt="active technologies logos">
-<br>
-  <h2> <strong> Technologies in Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,cloudflare,vercel" alt="technologies in learning logos">
-<br>
-  <h2> <strong> Previously Acquired Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=linux,bash,blender,cpp,arduino,idea,java,maven,mysql,sqlite,pug,wordpress" alt="previously acquired skills logos">
+  <h2>Active Technologies</h2>
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,bootstrap,tailwind,js,jquery,pnpm,git,github,windows,ubuntu,docker,figma" alt="active technologies logos"/>
 </div>
 
-<img  src="assests/borderseperator.gif">
+<div align="center">
+  <h2>Technologies in Learning</h2>
+  <img src="https://skillicons.dev/icons?i=ts,jest,nodejs,bun,express,react,nextjs,vercel" alt="technologies in learning logos"/>
+</div>
+
+<div align="center">
+  <h2>Previously Acquired</h2>
+  <img src="https://skillicons.dev/icons?i=linux,bash,blender,cpp,arduino,idea,java,maven,mysql,sqlite,pug,wordpress,xd" alt="previously acquired skills logos"/>
+</div>
+
+---
