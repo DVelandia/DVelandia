@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://profile-summary-for-github.herokuapp.com/user/DVelandia" target="_blank">
-    <img alt="github logo" width="50" height="50" src="assets/github-logo.png"/>
+    <img alt="github logo" width="50" height="50" src="https://api.iconify.design/mdi:github.svg?color=white" />
   </a>
   <a href="https://www.linkedin.com/in/DVelandia" target="_blank">
-    <img alt="linkedin logo" width="50" height="50" src="assets/linkedin-logo.png"/>
+    <img alt="linkedin logo" width="50" height="50" src="https://api.iconify.design/mdi:linkedin.svg?color=white" />
   </a>
   <a href="mailto:dfvf03@gmail.com" target="_blank">
-    <img alt="gmail logo" width="50" height="50" src="assets/gmail-logo.png"/>
+    <img alt="gmail logo" width="50" height="50" src="https://api.iconify.design/mdi:gmail.svg?color=white" />
   </a>
 </p>
 
@@ -22,19 +22,16 @@
 
 ### Coding with Colombian Coffee Aroma ☕️
 
-Hey there, I'm **Daniel Velandia**, a fifth-semester **Systems Engineering** student at UNISANGIL. Fueled by my passion for **technology** and **web development**, I've enriched my education with courses on **Platzi**. In my free time, I delve into **freelance projects**, collaborating closely with clients to deliver exceptional **user experiences**.
+Hey there, I'm **Daniel Velandia**, a sixth-semester **Systems Engineering** student at UNISANGIL. Fueled by my passion for **technology** and **web development**, I've enriched my education with courses on **Platzi**. In my free time, I delve into **freelance projects**, collaborating closely with clients to deliver exceptional **user experiences**.
 
 #### 🚀 Goals for 2024
+- Enhance my skills as a 💻 **Web Developer** and elevate my 🌐 **English** proficiency to collaborate globally.
 
-- Enhance my skills as a **Frontend Developer** and elevate my **English proficiency**.
+#### 🧠 Interests
+- 🔍 SEO  📊 CMS  👥 UX  🤖 IA  🎨 Design  ♿ Accessibility  ⚡ Optimization
 
-#### 💻 Interests
-
-- Design, Accessibility, Optimization, SEO, CMS, UX.
-
-#### 🧘🏽‍♂️ Hobbies
-
-- Cycling, Enjoying coffee, Meditation.
+#### 🌟 Beyond Coding
+- 🚴 Cycling  ☕ Savoring a cup of coffee  🧘 Practicing meditation
 
 <br><br>
 
@@ -42,17 +39,19 @@ Hey there, I'm **Daniel Velandia**, a fifth-semester **Systems Engineering** stu
 
 <div align="center">
   <h2>Active Technologies</h2>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,bootstrap,tailwind,js,jquery,pnpm,git,github,windows,ubuntu,docker,figma" alt="active technologies logos"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nodejs,jquery,ts,php,symfony,gcp,docker,wordpress" alt="active technologies logos"/>
+<img src="https://cdn.simpleicons.org/drupal/0678BE" alt="Drupal logo" height="48" width="48"/>
+<img src="https://cdn.simpleicons.org/pantheon/FFF" alt="Pantheon logo" height="48" width="48"/>
 </div>
 
 <div align="center">
   <h2>Technologies in Learning</h2>
-  <img src="https://skillicons.dev/icons?i=ts,jest,nodejs,bun,express,react,nextjs,vercel" alt="technologies in learning logos"/>
+  <img src="https://skillicons.dev/icons?i=angular,astro,express,aws,cloudflare,jest" alt="technologies in learning logos"/>
 </div>
 
 <div align="center">
   <h2>Previously Acquired</h2>
-  <img src="https://skillicons.dev/icons?i=linux,bash,blender,cpp,arduino,idea,java,maven,mysql,sqlite,pug,wordpress,xd" alt="previously acquired skills logos"/>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,figma,ps,xd,cpp,java,maven,mysql,sqlite,blender,pug" alt="previously acquired skills logos"/>
 </div>
 
 ---
