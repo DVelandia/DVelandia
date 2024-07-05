@@ -28,7 +28,7 @@ Hey there, I'm **Daniel Velandia**, a sixth-semester **Systems Engineering** stu
 - Enhance my skills as a 💻 **Web Developer** and elevate my 🌐 **English** proficiency to collaborate globally.
 
 #### 🧠 Interests
-- 🔍 SEO  📊 CMS  👥 UX  🤖 IA  🎨 Design  ♿ Accessibility  ⚡ Optimization
+- 🔍 SEO  📊 CMS  👥 UX  🤖 IA  🎨 Design ⚡ Optimization
 
 #### 🌟 Beyond Coding
 - 🚴 Cycling  ☕ Savoring a cup of coffee  🧘 Practicing meditation
@@ -39,14 +39,14 @@ Hey there, I'm **Daniel Velandia**, a sixth-semester **Systems Engineering** stu
 
 <div align="center">
   <h2>Active Technologies</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nodejs,jquery,ts,php,symfony,gcp,docker,wordpress" alt="active technologies logos"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nodejs,jquery,ts,php,symfony,docker,wordpress" alt="active technologies logos"/>
 <img src="https://cdn.simpleicons.org/drupal/0678BE" alt="Drupal logo" height="48" width="48"/>
 <img src="https://cdn.simpleicons.org/pantheon/FFF" alt="Pantheon logo" height="48" width="48"/>
 </div>
 
 <div align="center">
   <h2>Technologies in Learning</h2>
-  <img src="https://skillicons.dev/icons?i=angular,astro,express,aws,cloudflare,jest" alt="technologies in learning logos"/>
+  <img src="https://skillicons.dev/icons?i=angular,astro,express,aws,cloudflare,gcp,jest" alt="technologies in learning logos"/>
 </div>
 
 <div align="center">
